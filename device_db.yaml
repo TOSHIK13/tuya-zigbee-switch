@@ -6247,3 +6247,29 @@ SWITCH_ZEMISMART_TS0601_6GANG:
   info: Needs pinout. Secondary MCU. 6-gang!
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/209
   store: https://www.zemismart.com/products/tb26-6
+  ZIGBEE_2BUTTON_TS0042_DZWGK7E2:
+  human_name: "Tuya TS0042 2-button remote (Custom)"
+  category: remote
+  power: CR2032
+  neutral: without
+  device_type: end_device
+  stock_model_name: TS0042
+  stock_manufacturer_name: _TZ3000_dzwgk7e2
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0042
+  override_z2m_device: null
+  tuya_module: ZT3L
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: "dzwgk7e2;TS0042-CUS;SC0u;IC2;SB5u;IA0;M;"
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 43700
+  build: yes
+  status: custom
+  info: "Custom pinout from user tracing: S1=C0, S3=B5, LED1=C2, LED3=A0"
+  threads: null
+  store: null
