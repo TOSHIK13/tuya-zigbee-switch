@@ -12,8 +12,7 @@
 # - Fill empty values with null
 # - Keep KEYs in (mostly) alphabetical order
 # - Keep attributes in the same order
-
-  ZIGBEE_2BUTTON_TS0042_DZWGK7E2:
+ZIGBEE_2BUTTON_TS0042_DZWGK7E2:
   human_name: "Tuya TS0042 2-button remote (Custom)"
   category: remote
   power: CR2032
